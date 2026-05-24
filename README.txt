@@ -26,7 +26,7 @@
   1. Instala Node.js desde https://nodejs.org
   2. Extrae esta carpeta
   3. Abre el archivo .env y pon tu token:
-        DISCORD_TOKEN=tu_token_real_aquí
+        DISCORD_TOKEN=MTUwMjU5NzE2MjQ3MzYxOTUyNg.GtCmL2.AuZCzZ8CoHBYVMr3bB5ST1bv-0t-LXpbINTQYU
   4. Abre una terminal en la carpeta y ejecuta:
         npm install
         node deploy.js   ← solo la primera vez
